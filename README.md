@@ -1,4 +1,4 @@
-#Jupiter Rocket Guidance System git ReadMe
+# Jupiter Rocket Guidance System git ReadMe
 
 ## TO-DO
 * Install new Arduino in control system
